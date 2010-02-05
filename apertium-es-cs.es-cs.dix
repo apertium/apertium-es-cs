@@ -27,6 +27,7 @@
 
     <e><p><l>durante<s n="pr"/></l><r>během<s n="pr"/></r></p></e>
     <e><p><l>sin<s n="pr"/></l><r>bez<s n="pr"/></r></p></e>
+    <e><p><l>gracias<b/>a<s n="pr"/></l><r>díky<s n="pr"/></r></p></e>
     <e><p><l>en<s n="pr"/></l><r>do<s n="pr"/></r></p></e> <!-- # into, in, to, until // by -->
     <e><p><l>a<s n="pr"/></l><r>k<s n="pr"/></r></p></e> <!-- # to, towards 'hacia' -->
     <e><p><l>por<s n="pr"/></l><r>kolem<s n="pr"/></r></p></e> <!-- # around -->
@@ -50,32 +51,23 @@
     <e><p><l>según<s n="pr"/></l><r>podle<s n="pr"/></r></p></e> <!-- # according to, after -->
     <e><p><l>con<b/>la<b/>ayuda<b/>de<s n="pr"/></l><r>pomocí<s n="pr"/></r></p></e> <!-- # with the help of -->
     <e><p><l>antes<b/>de<s n="pr"/></l><r>před<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>přes<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>při<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>pro<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>proti<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>s<s n="pr"/></r></p></e>
+    <e><p><l>a<b/>través<b/>de<s n="pr"/></l><r>přes<s n="pr"/></r></p></e>
+    <e><p><l>a<s n="pr"/></l><r>při<s n="pr"/></r></p></e>
+    <e><p><l>para<s n="pr"/></l><r>pro<s n="pr"/></r></p></e>
+    <e><p><l>contra<s n="pr"/></l><r>proti<s n="pr"/></r></p></e>
+    <e><p><l>con<s n="pr"/></l><r>s<s n="pr"/></r></p></e>
     <e><p><l>@<s n="pr"/></l><r>skrz<s n="pr"/></r></p></e>
     <e><p><l>@<s n="pr"/></l><r>stran<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>sui<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>u<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>uvnitř<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>v<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>van<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>včetně<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>vedle<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>versus<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>via<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>vně<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>von<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>vstříc<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>vůči<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>vyjma<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>vzhledem<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>z<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>za<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>zpod<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>zpoza<s n="pr"/></r></p></e>
+    <e><p><l>a<s n="pr"/></l><r>u<s n="pr"/></r></p></e>
+    <e><p><l>dentro<b/>de<s n="pr"/></l><r>uvnitř<s n="pr"/></r></p></e>
+    <e><p><l>en<s n="pr"/></l><r>v<s n="pr"/></r></p></e>
+    <e><p><l>fuera<b/>de<s n="pr"/></l><r>van<s n="pr"/></r></p></e>
+    <e><p><l>incluso<s n="pr"/></l><r>včetně<s n="pr"/></r></p></e>
+    <e><p><l>al<b/>lado<b/>de<s n="pr"/></l><r>vedle<s n="pr"/></r></p></e>
+    <e><p><l>fuera<s n="pr"/></l><r>vně<s n="pr"/></r></p></e>
+    <e><p><l>salvo<s n="pr"/></l><r>vyjma<s n="pr"/></r></p></e> <!-- # excluding -->
+    <e><p><l>de<s n="pr"/></l><r>z<s n="pr"/></r></p></e>
+    <e><p><l>por<s n="pr"/></l><r>za<s n="pr"/></r></p></e> <!-- # for, in, behind -->
 
     <!-- Nouns -->
 
