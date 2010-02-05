@@ -6,11 +6,16 @@
      <sdef n="pr"       c="Preposition"/>
      <sdef n="np"       c="Proper noun"/>
 
+     <sdef n="vblex"    c="Verb"/>
+     <sdef n="vaux"     c="Auxiliary verb"/>
+     <sdef n="vbmod"    c="Modal verb"/>
+
      <sdef n="top"      c="Toponym"/>
      <sdef n="al"       c="Altres"/>
 
      <sdef n="f"        c="Feminine"/>
      <sdef n="nt"       c="Neuter"/>
+     <sdef n="m"        c="Masculine (no animacy)"/>
      <sdef n="mi"       c="Masculine (inanimate)"/>
      <sdef n="ma"       c="Masculine (animate)"/>
   </sdefs>
