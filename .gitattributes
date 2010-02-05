@@ -1,2 +1,3 @@
 * text=auto !eol
+/apertium-es-cs.cs.tsx -text
 /apertium-es-cs.es-cs.dix -text
