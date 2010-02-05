@@ -350,18 +350,19 @@
     <e><p><l>ejercicio<s n="n"/><s n="m"/></l><r>cvičení<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>página<s n="n"/><s n="f"/></l><r>strana<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lección<s n="n"/><s n="f"/></l><r>lekc<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>estudiante<s n="n"/><s n="mf"/></l><r>student<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>título<s n="n"/><s n="m"/></l><r>titul<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>diccionario<s n="n"/><s n="m"/></l><r>slovník<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>estudiante<s n="n"/><s n="mf"/></l><r>student<s n="n"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>estudiante<s n="n"/><s n="mf"/></l><r>student<s n="n"/></r></p></e>
+    <e><p><l>título<s n="n"/><s n="m"/></l><r>titul<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>diccionario<s n="n"/><s n="m"/></l><r>slovník<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>palabra<s n="n"/><s n="f"/></l><r>slovo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>facultad<s n="n"/><s n="f"/></l><r>fakulta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>filología<s n="n"/><s n="f"/></l><r>filologi<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ponencia<s n="n"/><s n="f"/></l><r>přednáš<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>saber<s n="n"/><s n="m"/></l><r>znalost<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>instituto<s n="n"/><s n="m"/></l><r>institut<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>instituto<s n="n"/><s n="m"/></l><r>institut<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>modismo<s n="n"/><s n="m"/></l><r>fráz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>seminario<s n="n"/><s n="m"/></l><r>seminář<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>texto<s n="n"/><s n="m"/></l><r>text<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>texto<s n="n"/><s n="m"/></l><r>text<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>algodón<s n="n"/><s n="m"/></l><r>bavlna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>biomasa<s n="n"/><s n="f"/></l><r>biomas<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>biotecnología<s n="n"/><s n="f"/></l><r>biotechnologi<s n="n"/><s n="f"/></r></p></e>
