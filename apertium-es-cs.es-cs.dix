@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <alphabet/>
+  <sdefs>
+     <sdef n="n"        c="Noun"/>
+     <sdef n="np"       c="Proper noun"/>
+
+     <sdef n="top"      c="Toponym"/>
+     <sdef n="al"       c="Altres"/>
+
+     <sdef n="f"        c="Feminine"/>
+     <sdef n="nt"       c="Neuter"/>
+     <sdef n="mi"       c="Masculine (inanimate)"/>
+     <sdef n="ma"       c="Masculine (animate)"/>
+  </sdefs>
+  <pardefs>
+    <pardef n="paraguas__deštník__n">
+      <e r="LR"><p><l><s n="sp"/></l><r><s n="GD"/></r></p></e>
+      <e r="RL"><p><l><s n="sp"/></l><r><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><s n="sp"/></l><r><s n="pl"/></r></p></e>
+    </pardef>
+  </pardefs>
+  <section id="main" type="standard">
+
+    <e><p><l>masa<s n="n"/><s n="f"/></l><r>těsto<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>lengua<s n="n"/><s n="f"/></l><r>jazyk<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>casa<s n="n"/><s n="f"/></l><r>dům<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>mujer<s n="n"/><s n="f"/></l><r>žena<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hombre<s n="n"/><s n="m"/></l><r>muž<s n="n"/><s n="ma"/></r></p></e>
+
+    <e r="LR"><p><l>niño<s n="n"/><s n="m"/></l><r>dítě<s n="n"/><s n="nt"/></r></p></e>
+    <e r="LR"><p><l>niño<s n="n"/><s n="f"/></l><r>dítě<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>niño<s n="n"/><s n="GD"/></l><r>dítě<s n="n"/><s n="nt"/></r></p></e>
+
+    <e><p><l>enero<s n="n"/><s n="m"/></l><r>leden<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>febrero<s n="n"/><s n="m"/></l><r>únor<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>marzo<s n="n"/><s n="m"/></l><r>březen<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>abril<s n="n"/><s n="m"/></l><r>duben<s n="n"/><s n="mi"/></r></p></e>
+    <e r="RL"><p><l>mayo<s n="n"/><s n="m"/></l><r>maj<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>mayo<s n="n"/><s n="m"/></l><r>květen<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>junio<s n="n"/><s n="m"/></l><r>červen<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>julio<s n="n"/><s n="m"/></l><r>červenec<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>agosto<s n="n"/><s n="m"/></l><r>srpen<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>septiembre<s n="n"/><s n="m"/></l><r>září<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>octubre<s n="n"/><s n="m"/></l><r>říjen<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>noviembre<s n="n"/><s n="m"/></l><r>listopad<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>diciembre<s n="n"/><s n="m"/></l><r>prosinec<s n="n"/><s n="mi"/></r></p></e>
+
+    <e><p><l>ardilla<s n="n"/><s n="f"/></l><r>vever<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>avestruz<s n="n"/><s n="f"/></l><r>pštros<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vaca<s n="n"/><s n="f"/></l><r>kráva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>avellano<s n="n"/><s n="m"/></l><r>zajíc<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pato<s n="n"/><s n="mf"/></l><r>kachna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>caballo<s n="n"/><s n="m"/></l><r>kůň<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tortuga<s n="n"/><s n="f"/></l><r>želva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oveja<s n="n"/><s n="f"/></l><r>ovc<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rinoceronte<s n="n"/><s n="m"/></l><r>nosorož<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lobo<s n="n"/><s n="m"/></l><r>vlk<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>garganta<s n="n"/><s n="f"/></l><r>krk<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>jirafa<s n="n"/><s n="f"/></l><r>žirafa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cabra<s n="n"/><s n="f"/></l><r>koz<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pez<s n="n"/><s n="m"/></l><r>ryba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gaviota<s n="n"/><s n="f"/></l><r>racek<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mariposa<s n="n"/><s n="f"/></l><r>motýl<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>dinosaurio<s n="n"/><s n="m"/></l><r>dinosaur<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rana<s n="n"/><s n="f"/></l><r>žába<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gato<s n="n"/><s n="m"/></l><r>koč<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ciervo<s n="n"/><s n="m"/></l><r>jelen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gorrión<s n="n"/><s n="m"/></l><r>vrab<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cisne<s n="n"/><s n="m"/></l><r>labuť<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hiena<s n="n"/><s n="f"/></l><r>hyena<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>grajo<s n="n"/><s n="m"/></l><r>vrána<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>elefante<s n="n"/><s n="m"/></l><r>slon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pingüino<s n="n"/><s n="m"/></l><r>tučňák<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hormiga<s n="n"/><s n="f"/></l><r>mraven<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ratón<s n="n"/><s n="m"/></l><r>myš<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abeja<s n="n"/><s n="f"/></l><r>včel<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>delfín<s n="n"/><s n="m"/></l><r>delfín<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gallo<s n="n"/><s n="m"/></l><r>kohout<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gallina<s n="n"/><s n="f"/></l><r>slepice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ala<s n="n"/><s n="f"/></l><r>křídlo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>animal<s n="n"/><s n="m"/></l><r>živočich<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mono<s n="n"/><s n="m"/></l><r>opice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ave<s n="n"/><s n="f"/></l><r>pták<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>burro<s n="n"/><s n="m"/></l><r>osel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>perro<s n="n"/><s n="m"/></l><r>pes<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cuero<s n="n"/><s n="m"/></l><r>kůž<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>camello<s n="n"/><s n="m"/></l><r>velbloud<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gusano<s n="n"/><s n="m"/></l><r>červ<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>manzana<s n="n"/><s n="f"/></l><r>jablko<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>ciruela<s n="n"/><s n="f"/></l><r>švest<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>albaricoque<s n="n"/><s n="m"/></l><r>meruňka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tomate<s n="n"/><s n="m"/></l><r>rajče<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>limón<s n="n"/><s n="m"/></l><r>citron<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>banana<s n="n"/><s n="f"/></l><r>banán<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cebolla<s n="n"/><s n="f"/></l><r>cibul<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>piña<s n="n"/><s n="f"/></l><r>ananas<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fruta<s n="n"/><s n="f"/></l><r>ovoce<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>breva<s n="n"/><s n="f"/></l><r>fík<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>semilla<s n="n"/><s n="f"/></l><r>semeno<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>patata<s n="n"/><s n="f"/></l><r>brambora<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ajo<s n="n"/><s n="m"/></l><r>česnek<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>melón<s n="n"/><s n="m"/></l><r>meloun<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>verdura<s n="n"/><s n="f"/></l><r>zelenina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pepino<s n="n"/><s n="m"/><s n="pl"/></l><r>okur<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ensalada<s n="n"/><s n="f"/></l><r>salát<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>coliflor<s n="n"/><s n="f"/></l><r>květák<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>collar<s n="n"/><s n="m"/></l><r>náhrdelník<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>joya<s n="n"/><s n="f"/></l><r>šperk<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>gorra<s n="n"/><s n="f"/></l><r>čepice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>algodón<s n="n"/><s n="m"/></l><r>bavlna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>guante<s n="n"/><s n="m"/></l><r>rukavice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>escaño<s n="n"/><s n="m"/></l><r>lavič<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>palacio<s n="n"/><s n="m"/></l><r>palác<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>biblioteca<s n="n"/><s n="f"/></l><r>knihovna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cole<s n="n"/><s n="m"/></l><r>škol<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>parque<s n="n"/><s n="m"/></l><r>hřiště<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>coche<s n="n"/><s n="m"/></l><r>auto<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>banca<s n="n"/><s n="f"/></l><r>banka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bus<s n="n"/><s n="m"/></l><r>autobus<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tractor<s n="n"/><s n="m"/></l><r>traktor<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ayuntamiento<s n="n"/><s n="m"/></l><r>radnice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>supermercado<s n="n"/><s n="m"/></l><r>supermarket<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>farmacia<s n="n"/><s n="f"/></l><r>lékárna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>consultorio<s n="n"/><s n="m"/></l><r>ambulanc<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hotel<s n="n"/><s n="m"/></l><r>hotel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>museo<s n="n"/><s n="m"/></l><r>muzeum<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>panadería<s n="n"/><s n="f"/></l><r>pekařství<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>puerto<s n="n"/><s n="m"/></l><r>přístav<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hospital<s n="n"/><s n="m"/></l><r>nemocnice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>teatro<s n="n"/><s n="m"/></l><r>divadlo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>refinería<s n="n"/><s n="f"/></l><r>rafineri<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aeropuerto<s n="n"/><s n="m"/></l><r>letiště<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>restaurante<s n="n"/><s n="m"/></l><r>restaurac<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>piscina<s n="n"/><s n="f"/></l><r>plovárna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sed<s n="n"/><s n="f"/></l><r>žízeň<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>boca<s n="n"/><s n="f"/></l><r>ústa<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>nervio<s n="n"/><s n="m"/></l><r>nerv<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pecho<s n="n"/><s n="m"/></l><r>prso<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>brazo<s n="n"/><s n="m"/></l><r>paž<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nariz<s n="n"/><s n="f"/></l><r>nos<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>voz<s n="n"/><s n="f"/></l><r>hlas<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cuello<s n="n"/><s n="m"/></l><r>krk<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>diente<s n="n"/><s n="m"/></l><r>zub<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cabeza<s n="n"/><s n="f"/></l><r>hlava<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lágrima<s n="n"/><s n="f"/></l><r>slz<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ojo<s n="n"/><s n="m"/></l><r>oko<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>pierna<s n="n"/><s n="f"/></l><r>noha<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cuerpo<s n="n"/><s n="m"/></l><r>tělo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>dedo<s n="n"/><s n="m"/></l><r>prst<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vientre<s n="n"/><s n="m"/></l><r>břicho<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>barbilla<s n="n"/><s n="f"/></l><r>brada<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rodilla<s n="n"/><s n="f"/></l><r>koleno<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>hueso<s n="n"/><s n="m"/></l><r>kost<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mente<s n="n"/><s n="f"/></l><r>mysl<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vulva<s n="n"/><s n="f"/></l><r>pochva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>estatura<s n="n"/><s n="f"/></l><r>postava<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>corazón<s n="n"/><s n="m"/></l><r>srdce<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>cólera<s n="n"/><s n="mf"/></l><r>cholera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lengua<s n="n"/><s n="f"/></l><r>jazyk<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>estómago<s n="n"/><s n="m"/></l><r>břicho<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>arena<s n="n"/><s n="f"/></l><r>písek<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>selva<s n="n"/><s n="f"/></l><r>les<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>noche<s n="n"/><s n="f"/></l><r>noc<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Babilonio<s n="n"/><s n="f"/></l><r>Babylon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>país<s n="n"/><s n="m"/></l><r>země<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>isla<s n="n"/><s n="f"/></l><r>ostrov<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>norte<s n="n"/><s n="m"/></l><r>sever<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mundo<s n="n"/><s n="m"/></l><r>svět<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>polvo<s n="n"/><s n="m"/></l><r>pra<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>continente<s n="n"/><s n="m"/></l><r>kontinent<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>duna<s n="n"/><s n="f"/></l><r>duna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>distrito<s n="n"/><s n="m"/></l><r>okres<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Meca<s n="n"/><s n="f"/></l><r>Mekka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oasis<s n="n"/><s n="m"/><s n="sp"/></l><r>oáz<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ciudad<s n="n"/><s n="f"/></l><r>město<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>mar<s n="n"/><s n="mf"/></l><r>moře<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>madera<s n="n"/><s n="f"/></l><r>dřevo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>gasolina<s n="n"/><s n="f"/></l><r>benzín<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aceleración<s n="n"/><s n="f"/></l><r>zrychlení<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>círculo<s n="n"/><s n="m"/></l><r>kruh<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>velocidad<s n="n"/><s n="f"/></l><r>rychlost<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>presión<s n="n"/><s n="f"/></l><r>tlak<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>luz<s n="n"/><s n="f"/></l><r>světlo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>luna<s n="n"/><s n="f"/></l><r>měsíc<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>satélite<s n="n"/><s n="m"/></l><r>satelit<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bomba<s n="n"/><s n="f"/></l><r>bomba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>azufre<s n="n"/><s n="m"/></l><r>síra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alcohol<s n="n"/><s n="m"/></l><r>alkohol<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>promedio<s n="n"/><s n="m"/></l><r>průměr<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>combustible<s n="n"/><s n="m"/></l><r>palivo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>yodo<s n="n"/><s n="m"/></l><r>jód<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>jeque<s n="n"/><s n="m"/></l><r>šejk<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rey<s n="n"/><s n="m"/></l><r>král<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ministro<s n="n"/><s n="m"/></l><r>ministr<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>emirato<s n="n"/><s n="m"/></l><r>emirát<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>socialismo<s n="n"/><s n="m"/></l><r>socializmus<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>elección<s n="n"/><s n="f"/></l><r>volba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>victoria<s n="n"/><s n="f"/></l><r>vítězství<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>protocolo<s n="n"/><s n="m"/></l><r>protokol<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>revolución<s n="n"/><s n="f"/></l><r>revoluc<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>república<s n="n"/><s n="f"/></l><r>republika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>frontera<s n="n"/><s n="f"/></l><r>hranice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>guerra<s n="n"/><s n="f"/></l><r>vál<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prohibición<s n="n"/><s n="f"/></l><r>zákaz<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>campaña<s n="n"/><s n="f"/></l><r>kampaň<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>democracia<s n="n"/><s n="f"/></l><r>demokraci<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>capitalismo<s n="n"/><s n="m"/></l><r>kapitalizmus<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>presidente<s n="n"/><s n="m"/></l><r>prezident<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>testigo<s n="n"/><s n="mf"/></l><r>svědek<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ciencia<s n="n"/><s n="f"/></l><r>věda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mayoría<s n="n"/><s n="f"/></l><r>většina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ideología<s n="n"/><s n="f"/></l><r>ideologi<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tribu<s n="n"/><s n="f"/></l><r>kmen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cónsul<s n="n"/><s n="mf"/></l><r>konzul<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>calamidad<s n="n"/><s n="f"/></l><r>katastrofa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Hacienda<s n="n"/><s n="f"/></l><r>financ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>canciller<s n="n"/><s n="m"/></l><r>kancléř<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>oposición<s n="n"/><s n="f"/></l><r>opozice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>discusión<s n="n"/><s n="f"/></l><r>diskuz<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>emigrante<s n="n"/><s n="mf"/></l><r>emigrant<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>recurso<s n="n"/><s n="m"/></l><r>zdroj<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>régimen<s n="n"/><s n="m"/></l><r>režim<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>comité<s n="n"/><s n="m"/></l><r>výbor<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ministerio<s n="n"/><s n="m"/></l><r>ministerstvo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>patria<s n="n"/><s n="f"/></l><r>domov<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>delegación<s n="n"/><s n="f"/></l><r>delegac<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nacionalidad<s n="n"/><s n="f"/></l><r>národnost<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>red<s n="n"/><s n="f"/></l><r>síť<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lámpara<s n="n"/><s n="f"/></l><r>lampa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>paraguas<s n="n"/><s n="m"/></l><r>deštník<s n="n"/><s n="m"/></r></p><par n="paraguas_deštník__n"/></e>
+    <e><p><l>televisor<s n="n"/><s n="m"/></l><r>televizor<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>llave<s n="n"/><s n="f"/></l><r>klíč<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>botella<s n="n"/><s n="f"/></l><r>láhev<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>barrica<s n="n"/><s n="f"/></l><r>sud<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>canasta<s n="n"/><s n="f"/></l><r>koš<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>taza<s n="n"/><s n="f"/></l><r>šálek<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mapa<s n="n"/><s n="m"/></l><r>mapa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mechero<s n="n"/><s n="m"/></l><r>zapalovač<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cristal<s n="n"/><s n="m"/></l><r>sklenice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hora<s n="n"/><s n="f"/></l><r>hodina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mueble<s n="n"/><s n="m"/></l><r>nábytek<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mesa<s n="n"/><s n="f"/></l><r>stůl<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>imagen<s n="n"/><s n="f"/></l><r>obrázek<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cama<s n="n"/><s n="f"/></l><r>postel<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>turista<s n="n"/><s n="mf"/></l><r>turista<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tren<s n="n"/><s n="m"/></l><r>vlak<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>monumento<s n="n"/><s n="m"/></l><r>pozoruhodnost<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>escopeta<s n="n"/><s n="f"/></l><r>puš<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>campeonato<s n="n"/><s n="m"/></l><r>mistrovství<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>tenis<s n="n"/><s n="m"/><s n="sp"/></l><r>tenis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>olimpiada<s n="n"/><s n="f"/></l><r>olympiáda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>voleibol<s n="n"/><s n="m"/></l><r>volejbal<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>campeonato<s n="n"/><s n="m"/></l><r>soutěž<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>medalla<s n="n"/><s n="f"/></l><r>medail<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>palma<s n="n"/><s n="f"/></l><r>palma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>flora<s n="n"/><s n="f"/></l><r>květ<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>yate<s n="n"/><s n="m"/></l><r>jachta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ola<s n="n"/><s n="f"/></l><r>vlna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>piedra<s n="n"/><s n="f"/></l><r>kámen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>huevo<s n="n"/><s n="m"/></l><r>vejce<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>néctar<s n="n"/><s n="m"/></l><r>nektar<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>miel<s n="n"/><s n="f"/></l><r>med<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cerveza<s n="n"/><s n="f"/></l><r>pivo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>queso<s n="n"/><s n="m"/></l><r>sýr<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>leche<s n="n"/><s n="f"/></l><r>mléko<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>centeno<s n="n"/><s n="m"/></l><r>žito<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>pan<s n="n"/><s n="m"/></l><r>chléb<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vinagre<s n="n"/><s n="m"/></l><r>ocet<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>harina<s n="n"/><s n="f"/></l><r>mouka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>medicamento<s n="n"/><s n="m"/></l><r>lék<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>arroz<s n="n"/><s n="m"/></l><r>rýž<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oliva<s n="n"/><s n="f"/></l><r>oliva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mantequilla<s n="n"/><s n="f"/></l><r>máslo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>azúcar<s n="n"/><s n="m"/></l><r>cukr<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cigarrillo<s n="n"/><s n="m"/></l><r>cigareta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>té<s n="n"/><s n="m"/></l><r>čaj<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sopa<s n="n"/><s n="f"/></l><r>polév<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zumo<s n="n"/><s n="m"/></l><r>džus<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hongo<s n="n"/><s n="m"/></l><r>houba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>trigo<s n="n"/><s n="m"/></l><r>pšenice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>carne<s n="n"/><s n="f"/></l><r>maso<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>almendra<s n="n"/><s n="f"/><s n="pl"/></l><r>mandl<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mermelada<s n="n"/><s n="f"/></l><r>džem<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vodka<s n="n"/><s n="m"/></l><r>vod<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bolígrafo<s n="n"/><s n="m"/></l><r>pero<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>traducción<s n="n"/><s n="f"/></l><r>překlad<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>explicación<s n="n"/><s n="f"/></l><r>vysvětlení<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>ejercicio<s n="n"/><s n="m"/></l><r>cvičení<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>página<s n="n"/><s n="f"/></l><r>strana<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lección<s n="n"/><s n="f"/></l><r>lekc<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>estudiante<s n="n"/><s n="mf"/></l><r>student<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>título<s n="n"/><s n="m"/></l><r>titul<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>diccionario<s n="n"/><s n="m"/></l><r>slovník<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>palabra<s n="n"/><s n="f"/></l><r>slovo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>facultad<s n="n"/><s n="f"/></l><r>fakulta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>filología<s n="n"/><s n="f"/></l><r>filologi<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ponencia<s n="n"/><s n="f"/></l><r>přednáš<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>saber<s n="n"/><s n="m"/></l><r>znalost<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>instituto<s n="n"/><s n="m"/></l><r>institut<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>modismo<s n="n"/><s n="m"/></l><r>fráz<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>seminario<s n="n"/><s n="m"/></l><r>seminář<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>texto<s n="n"/><s n="m"/></l><r>text<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>algodón<s n="n"/><s n="m"/></l><r>bavlna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biomasa<s n="n"/><s n="f"/></l><r>biomas<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biotecnología<s n="n"/><s n="f"/></l><r>biotechnologi<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biología<s n="n"/><s n="f"/></l><r>biologi<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>celulosa<s n="n"/><s n="f"/></l><r>celulóz<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>enzima<s n="n"/><s n="f"/></l><r>enzym<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lino<s n="n"/><s n="m"/></l><r>len<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>calefacción<s n="n"/><s n="f"/></l><r>vytápění<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>cáñamo<s n="n"/><s n="m"/></l><r>konopí<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>yute<s n="n"/><s n="m"/></l><r>juta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>maíz<s n="n"/><s n="m"/></l><r>kukuřice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mijo<s n="n"/><s n="m"/></l><r>proso<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>monumento<s n="n"/><s n="m"/></l><r>památ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>autopista<s n="n"/><s n="f"/></l><r>dálnice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>resina<s n="n"/><s n="f"/></l><r>pryskyřice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>centeno<s n="n"/><s n="m"/></l><r>žito<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>almidón<s n="n"/><s n="m"/></l><r>škrob<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>azúcar<s n="n"/><s n="m"/></l><r>cukr<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>girasol<s n="n"/><s n="m"/></l><r>slunečnice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cirugía<s n="n"/><s n="f"/></l><r>chirurgi<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>árbol<s n="n"/><s n="m"/></l><r>strom<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lana<s n="n"/><s n="f"/></l><r>vlna<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>cadáver<s n="n"/><s n="m"/></l><r>mrtvola<s n="n"/><s n="f"/></r></p></e>
+
+
+    <!-- Proper names -->
+
+    <e><p><l>Egipto<s n="np"/><s n="top"/></l><r>Egypt<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Irak<s n="np"/><s n="top"/></l><r>Irák<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Alemania<s n="np"/><s n="top"/></l><r>Německo<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>América<s n="np"/><s n="top"/></l><r>Amerika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>España<s n="np"/><s n="top"/></l><r>Španělsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Australia<s n="np"/><s n="top"/></l><r>Austráli<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Israel<s n="np"/><s n="top"/></l><r>Izrael<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Italia<s n="np"/><s n="top"/></l><r>Itáli<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Portugal<s n="np"/><s n="top"/></l><r>Portugalsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Bélgica<s n="np"/><s n="top"/></l><r>Belgi<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Polonia<s n="np"/><s n="top"/></l><r>Polsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Turquía<s n="np"/><s n="top"/></l><r>Turecko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Túnez<s n="np"/><s n="top"/></l><r>Tunis<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Jartum<s n="np"/><s n="top"/></l><r>Chartúm<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Dinamarca<s n="np"/><s n="top"/></l><r>Dánsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Rusia<s n="np"/><s n="top"/></l><r>Rusko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Sudán<s n="np"/><s n="top"/></l><r>Súdán<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Suecia<s n="np"/><s n="top"/></l><r>Švédsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Somalia<s n="np"/><s n="top"/></l><r>Somálsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Omán<s n="np"/><s n="top"/></l><r>Omán<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Francia<s n="np"/><s n="top"/></l><r>Franci<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Finlandia<s n="np"/><s n="top"/></l><r>Finsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Kuwait<s n="np"/><s n="top"/></l><r>Kuvajt<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Kenia<s n="np"/><s n="top"/></l><r>Keňa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Libia<s n="np"/><s n="top"/></l><r>Liby<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Hungría<s n="np"/><s n="top"/></l><r>Maďarsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Marruecos<s n="np"/><s n="top"/></l><r>Maroko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Mongolia<s n="np"/><s n="top"/></l><r>Mongolsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Holanda<s n="np"/><s n="top"/></l><r>Holandsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Yemen<s n="np"/><s n="top"/></l><r>Jemen<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Grecia<s n="np"/><s n="top"/></l><r>Řecko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Inglaterra<s n="np"/><s n="top"/></l><r>Angli<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Kremlin<s n="np"/><s n="al"/></l><r>Kreml<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+    <e><p><l>Moscú<s n="np"/><s n="top"/></l><r>Moskva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+
+    <!-- Verbs -->
+
+    <e><p><l>haber<b/>que<s n="vbmod"/></l><r>třeba<s n="vaux"/></r></p></e>
+
+  </section>
+</dictionary>
