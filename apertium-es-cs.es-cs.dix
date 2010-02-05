@@ -21,6 +21,68 @@
     </pardef>
   </pardefs>
   <section id="main" type="standard">
+    <e><p><l>gracias<s n="ij"/></l><r>díky<s n="ij"/></r></p></e>
+
+    <!-- Prepositions -->
+
+    <e><p><l>durante<s n="pr"/></l><r>během<s n="pr"/></r></p></e>
+    <e><p><l>sin<s n="pr"/></l><r>bez<s n="pr"/></r></p></e>
+    <e><p><l>en<s n="pr"/></l><r>do<s n="pr"/></r></p></e> <!-- # into, in, to, until // by -->
+    <e><p><l>a<s n="pr"/></l><r>k<s n="pr"/></r></p></e> <!-- # to, towards 'hacia' -->
+    <e><p><l>por<s n="pr"/></l><r>kolem<s n="pr"/></r></p></e> <!-- # around -->
+    <e><p><l>salvo<s n="pr"/></l><r>kromě<s n="pr"/></r></p></e> <!-- # except -->
+    <e><p><l>por<s n="pr"/></l><r>kvůli<s n="pr"/></r></p></e> <!-- # due to, because of -->
+    <e><p><l>entre<s n="pr"/></l><r>mezi<s n="pr"/></r></p></e>
+    <e><p><l>fuera<b/>de<s n="pr"/></l><r>mimo<s n="pr"/></r></p></e>
+    <e><p><l>en<b/>lugar<b/>de<s n="pr"/></l><r>místo<s n="pr"/></r></p></e>
+    <e><p><l>en<s n="pr"/></l><r>na<s n="pr"/></r></p></e> <!-- # on, for, at -->
+    <e><p><l>arriba<b/>de<s n="pr"/></l><r>nad<s n="pr"/></r></p></e>
+    <e><p><l>en<b/>lugar<b/>de<s n="pr"/></l><r>namísto<s n="pr"/></r></p></e>
+    <e><p><l>en<b/>frente<b/>de<s n="pr"/></l><r>naproti<s n="pr"/></r></p></e> <!-- # opposite, facing -->
+    <e><p><l>sobre<s n="pr"/></l><r>o<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>ob<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>od<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>ohledně<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>okolo<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>oproti<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>po<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>poblíž<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>pod<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>podél<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>podle<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>pomocí<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>před<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>přes<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>při<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>pro<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>proti<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>s<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>skrz<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>stran<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>sui<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>u<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>uvnitř<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>v<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>van<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>včetně<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>vedle<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>versus<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>via<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>vně<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>von<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>vstříc<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>vůči<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>vyjma<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>vzhledem<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>z<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>za<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>zpod<s n="pr"/></r></p></e>
+    <e><p><l>@<s n="pr"/></l><r>zpoza<s n="pr"/></r></p></e>
+
+    <!-- Nouns -->
 
     <e><p><l>masa<s n="n"/><s n="f"/></l><r>těsto<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lengua<s n="n"/><s n="f"/></l><r>jazyk<s n="n"/><s n="mi"/></r></p></e>
