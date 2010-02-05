@@ -40,21 +40,16 @@
     <e><p><l>en<b/>lugar<b/>de<s n="pr"/></l><r>namísto<s n="pr"/></r></p></e>
     <e><p><l>en<b/>frente<b/>de<s n="pr"/></l><r>naproti<s n="pr"/></r></p></e> <!-- # opposite, facing -->
     <e><p><l>sobre<s n="pr"/></l><r>o<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>ob<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>od<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>ohledně<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>okolo<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>oproti<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>po<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>poblíž<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>pod<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>podél<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>podle<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>pomocí<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>před<s n="pr"/></r></p></e>
+    <e><p><l>de<s n="pr"/></l><r>od<s n="pr"/></r></p></e> <!-- # of, from -->
+    <e><p><l>sobre<s n="pr"/></l><r>ohledně<s n="pr"/></r></p></e> <!-- # regarding, concerning -->
+    <e><p><l>por<s n="pr"/></l><r>okolo<s n="pr"/></r></p></e> <!-- # around -->
+    <e><p><l>@<s n="pr"/></l><r>oproti<s n="pr"/></r></p></e> <!-- # unlike, opposite to -->
+    <e><p><l>después<b/>de<s n="pr"/></l><r>po<s n="pr"/></r></p></e>
+    <e><p><l>debajo<b/>de<s n="pr"/></l><r>pod<s n="pr"/></r></p></e>
+    <e><p><l>por<s n="pr"/></l><r>podél<s n="pr"/></r></p></e> <!-- # along -->
+    <e><p><l>según<s n="pr"/></l><r>podle<s n="pr"/></r></p></e> <!-- # according to, after -->
+    <e><p><l>con<b/>la<b/>ayuda<b/>de<s n="pr"/></l><r>pomocí<s n="pr"/></r></p></e> <!-- # with the help of -->
+    <e><p><l>antes<b/>de<s n="pr"/></l><r>před<s n="pr"/></r></p></e>
     <e><p><l>@<s n="pr"/></l><r>přes<s n="pr"/></r></p></e>
     <e><p><l>@<s n="pr"/></l><r>při<s n="pr"/></r></p></e>
     <e><p><l>@<s n="pr"/></l><r>pro<s n="pr"/></r></p></e>
