@@ -171,7 +171,6 @@
     <e><p><l>continente<s n="n"/><s n="m"/></l><r>kontinent<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>duna<s n="n"/><s n="f"/></l><r>duna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distrito<s n="n"/><s n="m"/></l><r>okres<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>Meca<s n="n"/><s n="f"/></l><r>Mekka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>oasis<s n="n"/><s n="m"/><s n="sp"/></l><r>oáz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ciudad<s n="n"/><s n="f"/></l><r>město<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>mar<s n="n"/><s n="mf"/></l><r>moře<s n="n"/><s n="nt"/></r></p></e>
@@ -356,6 +355,7 @@
     <e><p><l>Libia<s n="np"/><s n="top"/></l><r>Liby<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Hungría<s n="np"/><s n="top"/></l><r>Maďarsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Marruecos<s n="np"/><s n="top"/></l><r>Maroko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Meca<s n="np"/><s n="top"/><s n="f"/></l><r>Mekka<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Mongolia<s n="np"/><s n="top"/></l><r>Mongolsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Holanda<s n="np"/><s n="top"/></l><r>Holandsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Yemen<s n="np"/><s n="top"/></l><r>Jemen<s n="np"/><s n="top"/><s n="m"/></r></p></e>
