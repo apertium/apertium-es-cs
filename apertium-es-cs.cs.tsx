@@ -35,6 +35,7 @@
     <tags-item lemma="z" tags="pr"/>
     <tags-item lemma="bez" tags="pr"/>
     <tags-item lemma="kolem" tags="pr"/>
+    <tags-item lemma="okolo" tags="pr"/>
     <tags-item lemma="vedle" tags="pr"/>
     <tags-item lemma="místo" tags="pr"/>
     <tags-item lemma="krome" tags="pr"/>
@@ -48,7 +49,7 @@
   </def-label> 
   <def-label name="ACCPR" closed="true">
     <tags-item lemma="pro" tags="pr"/>
-    <tags-item lemma="pres" tags="pr"/>
+    <tags-item lemma="přes" tags="pr"/>
     <tags-item lemma="po" tags="pr"/>
     <tags-item lemma="pod" tags="pr"/>
     <tags-item lemma="pred" tags="pr"/>
