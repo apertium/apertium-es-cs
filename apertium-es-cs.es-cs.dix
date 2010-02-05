@@ -176,12 +176,12 @@
     <e><p><l>hotel<s n="n"/><s n="m"/></l><r>hotel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>museo<s n="n"/><s n="m"/></l><r>muzeum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>panadería<s n="n"/><s n="f"/></l><r>pekařství<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>puerto<s n="n"/><s n="m"/></l><r>přístav<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>puerto<s n="n"/><s n="m"/></l><r>přístav<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>hospital<s n="n"/><s n="m"/></l><r>nemocnice<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>teatro<s n="n"/><s n="m"/></l><r>divadlo<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>refinería<s n="n"/><s n="f"/></l><r>rafineri<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>refinería<s n="n"/><s n="f"/></l><r>rafinerie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aeropuerto<s n="n"/><s n="m"/></l><r>letiště<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>restaurante<s n="n"/><s n="m"/></l><r>restaurac<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>restaurante<s n="n"/><s n="m"/></l><r>restaurace<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>piscina<s n="n"/><s n="f"/></l><r>plovárna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sed<s n="n"/><s n="f"/></l><r>žízeň<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>boca<s n="n"/><s n="f"/></l><r>ústa<s n="n"/><s n="nt"/></r></p></e>
@@ -212,11 +212,10 @@
     <e><p><l>arena<s n="n"/><s n="f"/></l><r>písek<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>selva<s n="n"/><s n="f"/></l><r>les<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>noche<s n="n"/><s n="f"/></l><r>noc<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Babilonio<s n="n"/><s n="f"/></l><r>Babylon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>país<s n="n"/><s n="m"/></l><r>země<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>isla<s n="n"/><s n="f"/></l><r>ostrov<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>isla<s n="n"/><s n="f"/></l><r>ostrov<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>norte<s n="n"/><s n="m"/></l><r>sever<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>mundo<s n="n"/><s n="m"/></l><r>svět<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mundo<s n="n"/><s n="m"/></l><r>svět<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>polvo<s n="n"/><s n="m"/></l><r>pra<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>continente<s n="n"/><s n="m"/></l><r>kontinent<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>duna<s n="n"/><s n="f"/></l><r>duna<s n="n"/><s n="f"/></r></p></e>
@@ -247,23 +246,23 @@
     <e><p><l>elección<s n="n"/><s n="f"/></l><r>volba<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>victoria<s n="n"/><s n="f"/></l><r>vítězství<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>protocolo<s n="n"/><s n="m"/></l><r>protokol<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>revolución<s n="n"/><s n="f"/></l><r>revoluc<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>revolución<s n="n"/><s n="f"/></l><r>revoluce<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>república<s n="n"/><s n="f"/></l><r>republika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>frontera<s n="n"/><s n="f"/></l><r>hranice<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>guerra<s n="n"/><s n="f"/></l><r>vál<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>prohibición<s n="n"/><s n="f"/></l><r>zákaz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>campaña<s n="n"/><s n="f"/></l><r>kampaň<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>democracia<s n="n"/><s n="f"/></l><r>demokraci<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>democracia<s n="n"/><s n="f"/></l><r>demokracie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>capitalismo<s n="n"/><s n="m"/></l><r>kapitalizmus<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>presidente<s n="n"/><s n="m"/></l><r>prezident<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>testigo<s n="n"/><s n="mf"/></l><r>svědek<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ciencia<s n="n"/><s n="f"/></l><r>věda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mayoría<s n="n"/><s n="f"/></l><r>většina<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>ideología<s n="n"/><s n="f"/></l><r>ideologi<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ideología<s n="n"/><s n="f"/></l><r>ideologie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tribu<s n="n"/><s n="f"/></l><r>kmen<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cónsul<s n="n"/><s n="mf"/></l><r>konzul<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>calamidad<s n="n"/><s n="f"/></l><r>katastrofa<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Hacienda<s n="n"/><s n="f"/></l><r>financ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Hacienda<s n="n"/><s n="f"/></l><r>finance<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>canciller<s n="n"/><s n="m"/></l><r>kancléř<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>oposición<s n="n"/><s n="f"/></l><r>opozice<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>discusión<s n="n"/><s n="f"/></l><r>diskuz<s n="n"/><s n="f"/></r></p></e>
@@ -273,7 +272,7 @@
     <e><p><l>comité<s n="n"/><s n="m"/></l><r>výbor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ministerio<s n="n"/><s n="m"/></l><r>ministerstvo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>patria<s n="n"/><s n="f"/></l><r>domov<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>delegación<s n="n"/><s n="f"/></l><r>delegac<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>delegación<s n="n"/><s n="f"/></l><r>delegace<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nacionalidad<s n="n"/><s n="f"/></l><r>národnost<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>red<s n="n"/><s n="f"/></l><r>síť<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lámpara<s n="n"/><s n="f"/></l><r>lampa<s n="n"/><s n="f"/></r></p></e>
@@ -337,14 +336,14 @@
     <e><p><l>explicación<s n="n"/><s n="f"/></l><r>vysvětlení<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ejercicio<s n="n"/><s n="m"/></l><r>cvičení<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>página<s n="n"/><s n="f"/></l><r>strana<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>lección<s n="n"/><s n="f"/></l><r>lekc<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lección<s n="n"/><s n="f"/></l><r>lekce<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>estudiante<s n="n"/><s n="mf"/></l><r>student<s n="n"/><s n="GD"/></r></p></e>
     <e r="LR"><p><l>estudiante<s n="n"/><s n="mf"/></l><r>student<s n="n"/></r></p></e>
     <e><p><l>título<s n="n"/><s n="m"/></l><r>titul<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>diccionario<s n="n"/><s n="m"/></l><r>slovník<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>palabra<s n="n"/><s n="f"/></l><r>slovo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>facultad<s n="n"/><s n="f"/></l><r>fakulta<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>filología<s n="n"/><s n="f"/></l><r>filologi<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>filología<s n="n"/><s n="f"/></l><r>filologie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ponencia<s n="n"/><s n="f"/></l><r>přednáš<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>saber<s n="n"/><s n="m"/></l><r>znalost<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>instituto<s n="n"/><s n="m"/></l><r>institut<s n="n"/><s n="mi"/></r></p></e>
@@ -368,10 +367,10 @@
     <e><p><l>resina<s n="n"/><s n="f"/></l><r>pryskyřice<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>centeno<s n="n"/><s n="m"/></l><r>žito<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>almidón<s n="n"/><s n="m"/></l><r>škrob<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>azúcar<s n="n"/><s n="m"/></l><r>cukr<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>azúcar<s n="n"/><s n="m"/></l><r>cukr<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>girasol<s n="n"/><s n="m"/></l><r>slunečnice<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>cirugía<s n="n"/><s n="f"/></l><r>chirurgi<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>árbol<s n="n"/><s n="m"/></l><r>strom<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cirugía<s n="n"/><s n="f"/></l><r>chirurgie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>árbol<s n="n"/><s n="m"/></l><r>strom<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>lana<s n="n"/><s n="f"/></l><r>vlna<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>cadáver<s n="n"/><s n="m"/></l><r>mrtvola<s n="n"/><s n="f"/></r></p></e>
@@ -389,6 +388,7 @@
     <e><p><l>Italia<s n="np"/><s n="top"/></l><r>Itáli<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Portugal<s n="np"/><s n="top"/></l><r>Portugalsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Bélgica<s n="np"/><s n="top"/></l><r>Belgi<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Babilonio<s n="np"/><s n="top"/><s n="f"/></l><r>Babylon<s n="np"/><s n="top"/><s n="m"/></r></p></e>
     <e><p><l>Polonia<s n="np"/><s n="top"/></l><r>Polsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Turquía<s n="np"/><s n="top"/></l><r>Turecko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Túnez<s n="np"/><s n="top"/></l><r>Tunis<s n="np"/><s n="top"/><s n="m"/></r></p></e>
