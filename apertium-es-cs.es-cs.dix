@@ -3,6 +3,7 @@
   <alphabet/>
   <sdefs>
      <sdef n="n"        c="Noun"/>
+     <sdef n="pr"       c="Preposition"/>
      <sdef n="np"       c="Proper noun"/>
 
      <sdef n="top"      c="Toponym"/>
