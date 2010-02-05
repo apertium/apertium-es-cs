@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <alphabet/>
+  <sdefs>
+    <sdef n="test"/>
+  </sdefs>
+
+  <pardefs>
+    <pardef n="caracter_general">
+      <e>
+        <i>;</i>
+      </e>
+      <e>
+        <i>#</i>
+      </e>
+      <e>
+        <i>)</i>
+      </e>
+      <e>
+        <i>:</i>
+      </e>
+      <e>
+        <i>(</i>
+      </e>
+      <e>
+        <i>[</i>
+      </e>
+      <e>
+        <i>]</i>
+      </e>
+      <e>
+        <i>"</i>
+      </e>
+      <e>
+        <i>'</i>
+      </e>
+      <e>
+        <i>*</i>
+      </e>
+      <e>
+        <i>@</i>
+      </e>
+      <e>
+        <i>«</i>
+      </e>
+      <e>
+        <i>-</i>
+      </e>
+      <e>
+        <i>,</i>
+      </e>
+      <e>
+        <i>?</i>
+      </e>
+      <e>
+        <i>/</i>
+      </e>
+      <e>
+        <i>`</i>
+      </e>
+      <e>
+        <i>±</i>
+      </e>
+      <e>
+        <i>­</i>
+      </e>
+      <e>
+        <i>$</i>
+      </e>
+      <e>
+        <i>)</i>
+      </e>
+      <e>
+        <i>:</i>
+      </e>
+      <e>
+        <i>.</i>
+      </e>
+    </pardef>
+
+    <pardef n="vocals">
+      <e>
+        <i>a</i>
+      </e>
+      <e>
+        <i>e</i>
+      </e>
+      <e>
+        <i>i</i>
+      </e>
+      <e>
+        <i>o</i>
+      </e>
+      <e>
+        <i>u</i>
+      </e>
+    </pardef>
+   
+    <pardef n="ve">
+      <e>
+        <i>v</i>
+      </e>
+      <e>
+        <i>f</i>
+      </e>
+      <e>
+        <i>zv</i>
+      </e>
+      <e>
+        <i>mn</i>
+      </e>
+    </pardef>
+    <pardef n="ze">
+      <e>
+        <i>š</i>
+      </e>
+      <e>
+        <i>z</i>
+      </e>
+      <e>
+        <i>s</i>
+      </e>
+      <e>
+        <i>mn</i>
+      </e>
+    </pardef>
+    <pardef n="ke">
+      <e>
+        <i>k</i>
+      </e>
+      <e>
+        <i>mn</i>
+      </e>
+    </pardef>
+  </pardefs>
+
+  <section id="main" type="standard">
+    <e>
+      <p>
+        <l><a/>v<b/></l>
+        <r>ve<b/></r>
+      </p>
+      <par n="ve"/>
+    </e>
+    <e>
+      <p>
+        <l><a/>v<b/></l>
+        <r>v<b/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l><a/>z<b/></l>
+        <r>ze<b/></r>
+      </p>
+      <par n="ze"/>
+    </e>
+    <e>
+      <p>
+        <l><a/>z<b/></l>
+        <r>z<b/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l><a/>s<b/></l>
+        <r>se<b/></r>
+      </p>
+      <par n="ze"/>
+    </e>
+    <e>
+      <p>
+        <l><a/>s<b/></l>
+        <r>s<b/></r>
+      </p>
+    </e>
+  </section>
+
+</dictionary>
