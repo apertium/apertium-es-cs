@@ -2,3 +2,4 @@
 /apertium-es-cs.cs.tsx -text
 /apertium-es-cs.es-cs.dix -text
 /apertium-es-cs.post-cs.dix -text
+/marker_words.cs -text
