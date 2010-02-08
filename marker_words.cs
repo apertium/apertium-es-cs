@@ -36,6 +36,10 @@ bez:P
 blízko:P
 u:P
 vedle:P
+místo:P
+krome:P
+kvuli:P
+díky:P
 okolo:P
 kolem:P
 k:P
@@ -46,7 +50,9 @@ navzdory:P
 proti:P
 vůči:P
 na:P
+nad:P
 po:P
+pod:P
 přes:P
 o:P
 mezi:P
@@ -73,11 +79,6 @@ my:O:Pers_PRON
 nám:O:Pers_PRON
 námi:O:Pers_PRON
 nás:O:Pers_PRON
-ně:O:Pers_PRON
-něho:O:Pers_PRON
-něj:O:Pers_PRON
-něm:O:Pers_PRON
-němu:O:Pers_PRON
 ni:O:Pers_PRON
 ní:O:Pers_PRON
 nich:O:Pers_PRON
