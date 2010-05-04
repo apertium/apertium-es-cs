@@ -18,9 +18,17 @@
      <sdef n="m"        c="Masculine (no animacy)"/>
      <sdef n="mi"       c="Masculine (inanimate)"/>
      <sdef n="ma"       c="Masculine (animate)"/>
+
+     <sdef n="sp"       c=""/>
+     <sdef n="sg"       c=""/>
+     <sdef n="pl"       c=""/>
+     <sdef n="GD"       c=""/>
+     <sdef n="ND"       c=""/>
+     <sdef n="mf"       c=""/>
+     <sdef n="ij"       c=""/>
   </sdefs>
   <pardefs>
-    <pardef n="paraguas__deštník__n">
+    <pardef n="paraguas_deštník__n">
       <e r="LR"><p><l><s n="sp"/></l><r><s n="ND"/></r></p></e>
       <e r="RL"><p><l><s n="sp"/></l><r><s n="sg"/></r></p></e>
       <e r="RL"><p><l><s n="sp"/></l><r><s n="pl"/></r></p></e>

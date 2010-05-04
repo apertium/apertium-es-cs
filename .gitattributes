@@ -1,6 +1,22 @@
 * text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-es-cs.cs-es.t1x -text
+/apertium-es-cs.cs.acx -text
 /apertium-es-cs.cs.dix -text
 /apertium-es-cs.cs.tsx -text
 /apertium-es-cs.es-cs.dix -text
+/apertium-es-cs.es.acx -text
+/apertium-es-cs.es.dix -text
 /apertium-es-cs.post-cs.dix -text
+/apertium-es-cs.post-es.dix -text
+/autogen.sh -text
+/configure.ac -text
+/cs-es.prob -text
+/es-cs.prob -text svneol=unset#unset
 /marker_words.cs -text
+/modes.xml -text
