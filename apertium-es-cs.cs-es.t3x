@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- -*- nxml -*- -->
+<postchunk>
+  <section-def-cats>
+    <def-cat n="verb">
+      <cat-item name="verb"/>
+    </def-cat>
+    <def-cat n="aux_inf">
+      <cat-item name="aux_inf"/>
+    </def-cat>
+    <def-cat n="nom">
+      <cat-item name="nom"/>
+    </def-cat>
+  </section-def-cats>
+
+  <section-def-attrs>
+    <def-attr n="a_adj">
+      <attr-item tags="adj"/>
+    </def-attr>
+    <def-attr n="gen">
+      <attr-item tags="m"/>
+      <attr-item tags="f"/>
+      <attr-item tags="mf"/>
+      <attr-item tags="nt"/>
+      <attr-item tags="nm"/>
+      <attr-item tags="GD"/>
+    </def-attr>
+    <def-attr n="nbr">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+      <attr-item tags="ND"/>
+    </def-attr>
+    <def-attr n="pers">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+      <attr-item tags="PD"/>
+    </def-attr>
+    <def-attr n="cas">
+      <attr-item tags="nom"/>
+      <attr-item tags="gen"/>
+      <attr-item tags="dat"/>
+      <attr-item tags="acc"/>
+      <attr-item tags="loc"/>
+      <attr-item tags="voc"/>
+      <attr-item tags="CD"/>
+      <attr-item tags="indecl"/>
+    </def-attr>
+  </section-def-attrs>
+
+  <section-def-vars>
+    <def-var n="foo"/>
+  </section-def-vars>
+
+  <section-rules>
+    <rule comment="CHUNK: nom">
+      <pattern>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" part="whole"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="CHUNK: verb">
+      <pattern>
+        <pattern-item n="verb"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" part="pers"/>
+                <lit-tag v="PD"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" part="pers"/>
+              <lit-tag v="p3"/>
+            </let>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal>
+                  <clip pos="1" part="nbr"/>
+                  <lit-tag v="pl"/>
+                </equal>
+                <or>
+                  <equal>
+                    <clip pos="1" part="gen"/>
+                    <lit-tag v="nt"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" part="gen"/>
+                    <lit-tag v="f"/>
+                  </equal>
+                </or>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" part="gen"/>
+              <lit-tag v="nm"/>
+            </let>
+          </when>
+        </choose>
+        <out>
+          <lu>
+            <clip pos="1" part="whole"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+    <rule comment="CHUNK: verb">
+      <pattern>
+        <pattern-item n="aux_inf"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" part="pers"/>
+                <lit-tag v="PD"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" part="pers"/>
+              <lit-tag v="p3"/>
+            </let>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal>
+                  <clip pos="1" part="nbr"/>
+                  <lit-tag v="pl"/>
+                </equal>
+                <or>
+                  <equal>
+                    <clip pos="1" part="gen"/>
+                    <lit-tag v="nt"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" part="gen"/>
+                    <lit-tag v="f"/>
+                  </equal>
+                </or>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" part="gen"/>
+              <lit-tag v="nm"/>
+            </let>
+          </when>
+        </choose>
+        <out>
+          <lu>
+            <clip pos="1" part="whole"/>
+          </lu>
+          <b/>
+          <lu>
+            <clip pos="2" part="whole"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+
+  </section-rules>
+</postchunk>

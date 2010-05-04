@@ -502,12 +502,10 @@
 	  </when>
 	  <when>
 	    <test>
-	      <and>
 		<equal caseless="yes">
 		  <clip pos="1" side="sl" part="lem"/> 
 		  <lit v="nej"/>
 		</equal>
-	      </and>
 	    </test>
             <let>
               <clip pos="2" side="tl" part="a_adj"/>

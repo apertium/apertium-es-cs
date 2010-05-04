@@ -6,6 +6,8 @@
 /NEWS -text
 /README -text
 /apertium-es-cs.cs-es.t1x -text
+/apertium-es-cs.cs-es.t2x -text
+/apertium-es-cs.cs-es.t3x -text
 /apertium-es-cs.cs.acx -text
 /apertium-es-cs.cs.dix -text
 /apertium-es-cs.cs.tsx -text
