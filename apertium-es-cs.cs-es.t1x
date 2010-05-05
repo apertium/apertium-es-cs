@@ -21,6 +21,34 @@
      <cat-item tags="vaux.imperf.past"/>
      <cat-item tags="vaux.imperf.past.*"/>
   </def-cat>
+  <def-cat n="verbcj">
+     <cat-item tags="vblex.imperf.pres"/>
+     <cat-item tags="vblex.imperf.pres.*"/>
+     <cat-item tags="vbhaver.imperf.pres"/>
+     <cat-item tags="vbhaver.imperf.pres.*"/>
+     <cat-item tags="vaux.imperf.pres"/>
+     <cat-item tags="vaux.imperf.pres.*"/>
+     <cat-item tags="vbser.pres"/>
+     <cat-item tags="vbser.pres.*"/>
+     <cat-item tags="vblex.perf.imp"/>
+     <cat-item tags="vblex.perf.imp.*"/>
+     <cat-item tags="vblex.imperf.imp"/>
+     <cat-item tags="vblex.imperf.imp.*"/>
+     <cat-item tags="vbhaver.imperf.imp"/>
+     <cat-item tags="vbhaver.imperf.imp.*"/>
+     <cat-item tags="vaux.imperf.imp"/>
+     <cat-item tags="vaux.imperf.imp.*"/>
+     <cat-item tags="vbser.imp"/>
+     <cat-item tags="vbser.imp.*"/>
+     <cat-item tags="vblex.perf.fti"/>
+     <cat-item tags="vblex.perf.fti.*"/>
+     <cat-item tags="vblex.imperf.fti"/>
+     <cat-item tags="vblex.imperf.fti.*"/>
+     <cat-item tags="vaux.imperf.fti"/>
+     <cat-item tags="vaux.imperf.fti.*"/>
+     <cat-item tags="vbser.fti"/>
+     <cat-item tags="vbser.fti.*"/>
+  </def-cat>
   <def-cat n="bytpast">
      <cat-item lemma="být" tags="vbser.past"/>
      <cat-item lemma="být" tags="vbser.past.*"/>
@@ -351,7 +379,19 @@
               </let>
             </otherwise> 
           </choose>
-        </when> 
+        </when>
+        <when> 
+          <test>
+            <equal>
+              <clip pos="1" side="sl" part="tns"/>
+              <lit-tag v="pres"/>
+            </equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="tns"/>
+            <lit-tag v="pri"/>
+          </let>
+        </when>
       </choose>
     </def-macro>
     <def-macro n="firstWord" npar="1"><!--nova versió 8-febr-08  -->
@@ -910,6 +950,9 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="canvi_temps">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="verb" case="caseFirstWord">
            <tags>
@@ -923,10 +966,40 @@
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_vrb"/>
-              <clip pos="1" side="tl" part="tns" link-to="3"/>
               <lit-tag v="4"/>
-              <clip pos="1" side="tl" part="gen" link-to="5"/>
               <clip pos="1" side="tl" part="nbr" link-to="6"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+  <rule comment="čtu -> leo">
+     <pattern>
+       <pattern-item n="verbcj"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="canvi_temps">
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="verb" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="sl" part="asp"/></tag>
+              <tag><clip pos="1" side="tl" part="tns"/></tag>
+              <tag><clip pos="1" side="tl" part="prs"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_vrb"/>
+              <clip pos="1" side="tl" part="tns" link-to="3"/>
+              <clip pos="1" side="tl" part="prs" link-to="4"/>
+              <clip pos="1" side="tl" part="nbr" link-to="5"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
