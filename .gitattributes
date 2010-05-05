@@ -12,6 +12,10 @@
 /apertium-es-cs.cs.dix -text
 /apertium-es-cs.cs.tsx -text
 /apertium-es-cs.es-cs.dix -text
+/apertium-es-cs.es-cs.t0x -text
+/apertium-es-cs.es-cs.t1x -text
+/apertium-es-cs.es-cs.t2x -text
+/apertium-es-cs.es-cs.t3x -text
 /apertium-es-cs.es.acx -text
 /apertium-es-cs.es.dix -text
 /apertium-es-cs.post-cs.dix -text
