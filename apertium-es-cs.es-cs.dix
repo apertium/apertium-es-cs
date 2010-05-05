@@ -43,6 +43,10 @@
       <e r="LR"><i><s n="imperf"/></i></e>
       <e r="RL"><p><l></l><r><s n="imperf"/></r></p></e>
     </pardef>
+    <pardef n="perf">
+      <e r="LR"><i><s n="perf"/></i></e>
+      <e r="RL"><p><l></l><r><s n="perf"/></r></p></e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <e><p><l>gracias<s n="ij"/></l><r>díky<s n="ij"/></r></p></e>
@@ -103,6 +107,7 @@
     <e><p><l>hombre<s n="n"/><s n="m"/></l><r>muž<s n="n"/><s n="ma"/></r></p></e>
 
     <e><p><l>leer<s n="vblex"/></l><r>číst<s n="vblex"/></r></p><par n="imperf"/></e>
+    <e><p><l>leer<s n="vblex"/></l><r>přečíst<s n="vblex"/></r></p><par n="perf"/></e>
 
     <e><p><l>financiero<s n="adj"/></l><r>finanční<s n="adj"/></r></p></e>
     <e><p><l>internacional<s n="adj"/></l><r>mezinárodní<s n="adj"/></r></p></e>
