@@ -18,6 +18,7 @@
 /apertium-es-cs.es-cs.t3x -text
 /apertium-es-cs.es.acx -text
 /apertium-es-cs.es.dix -text
+/apertium-es-cs.es.tsx -text
 /apertium-es-cs.post-cs.dix -text
 /apertium-es-cs.post-es.dix -text
 /autogen.sh -text
