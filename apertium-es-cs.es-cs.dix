@@ -97,6 +97,10 @@
     <e><p><l>hombre<s n="n"/><s n="m"/></l><r>muž<s n="n"/><s n="ma"/></r></p></e>
 
     <e><p><l>financiero<s n="adj"/></l><r>finanční<s n="adj"/></r></p></e>
+    <e><p><l>internacional<s n="adj"/></l><r>mezinárodní<s n="adj"/></r></p></e>
+    <e><p><l>democrático<s n="adj"/></l><r>demokratický<s n="adj"/></r></p></e>
+    <e><p><l>vegetariano<s n="adj"/></l><r>vegetariánský<s n="adj"/></r></p></e>
+    <e><p><l>típico<s n="adj"/></l><r>typický<s n="adj"/></r></p></e>
 
     <e r="LR"><p><l>niño<s n="n"/><s n="m"/></l><r>dítě<s n="n"/><s n="nt"/></r></p></e>
     <e r="LR"><p><l>niño<s n="n"/><s n="f"/></l><r>dítě<s n="n"/><s n="nt"/></r></p></e>
