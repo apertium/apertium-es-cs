@@ -30,12 +30,18 @@
 
      <sdef n="sent"     c=""/>
      <sdef n="cm"       c=""/>
+     <sdef n="imperf"   c=""/>
+     <sdef n="perf"     c=""/>
   </sdefs>
   <pardefs>
     <pardef n="paraguas_deštník__n">
       <e r="LR"><p><l><s n="sp"/></l><r><s n="ND"/></r></p></e>
       <e r="RL"><p><l><s n="sp"/></l><r><s n="sg"/></r></p></e>
       <e r="RL"><p><l><s n="sp"/></l><r><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="imperf">
+      <e r="LR"><i><s n="imperf"/></i></e>
+      <e r="RL"><p><l></l><r><s n="imperf"/></r></p></e>
     </pardef>
   </pardefs>
   <section id="main" type="standard">
@@ -95,6 +101,8 @@
     <e><p><l>casa<s n="n"/><s n="f"/></l><r>dům<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>mujer<s n="n"/><s n="f"/></l><r>žena<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hombre<s n="n"/><s n="m"/></l><r>muž<s n="n"/><s n="ma"/></r></p></e>
+
+    <e><p><l>leer<s n="vblex"/></l><r>číst<s n="vblex"/></r></p><par n="imperf"/></e>
 
     <e><p><l>financiero<s n="adj"/></l><r>finanční<s n="adj"/></r></p></e>
     <e><p><l>internacional<s n="adj"/></l><r>mezinárodní<s n="adj"/></r></p></e>

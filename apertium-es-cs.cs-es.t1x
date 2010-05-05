@@ -326,39 +326,31 @@
       <choose>
         <when>
           <test>
-            <and>
-              <equal>
-                <clip pos="1" side="sl" part="a_asp"/>
-                <lit-tag v="imperf"/>
-              </equal>
-              <equal>
-                <clip pos="1" side="sl" part="tns"/>
-                <lit-tag v="past"/>
-              </equal>
-            </and>
+            <equal>
+              <clip pos="1" side="sl" part="tns"/>
+              <lit-tag v="past"/>
+            </equal>
           </test>
-          <let>
-            <clip pos="1" side="tl" part="tns"/>
-            <lit-tag v="pii"/>
-          </let>
-        </when> 
-        <when>
-          <test>
-            <and>
-              <equal>
-                <clip pos="1" side="sl" part="a_asp"/>
-                <lit-tag v="perf"/>
-              </equal>
-              <equal>
-                <clip pos="1" side="sl" part="tns"/>
-                <lit-tag v="past"/>
-              </equal>
-            </and>
-          </test>
-          <let>
-            <clip pos="1" side="tl" part="tns"/>
-            <lit-tag v="ifi"/>
-          </let>
+          <choose>
+            <when>
+              <test>
+                <equal>
+                  <clip pos="1" side="sl" part="a_asp"/>
+                  <lit-tag v="perf"/>
+                </equal>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="tns"/>
+                <lit-tag v="ifi"/>
+              </let>
+            </when>
+            <otherwise>
+              <let>
+                <clip pos="1" side="tl" part="tns"/>
+                <lit-tag v="pii"/>
+              </let>
+            </otherwise> 
+          </choose>
         </when> 
       </choose>
     </def-macro>
@@ -979,23 +971,24 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="canvi_temps">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="verb" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="1" side="tl" part="asp"/></tag>
-              <tag><lit-tag v="past"/></tag>
+              <tag><clip pos="1" side="sl" part="asp"/></tag>
+              <tag><clip pos="1" side="tl" part="tns"/></tag>
               <tag><clip pos="2" side="tl" part="prs"/></tag>
-              <tag><clip pos="1" side="tl" part="gen"/></tag>
+              <tag><clip pos="1" side="sl" part="gen"/></tag>
               <tag><clip pos="2" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_vrb"/>
-              <clip pos="1" side="tl" part="asp" link-to="2"/>
               <clip pos="1" side="tl" part="tns" link-to="3"/>
               <clip pos="2" side="tl" part="prs" link-to="4"/>
-              <clip pos="1" side="tl" part="gen" link-to="5"/>
               <clip pos="2" side="tl" part="nbr" link-to="6"/>
             </lu>
           </chunk>
@@ -1011,23 +1004,24 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="canvi_temps">
+         <with-param pos="2"/>
+       </call-macro>
        <out>
          <chunk name="verb" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="2" side="tl" part="asp"/></tag>
-              <tag><lit-tag v="past"/></tag>
+              <tag><clip pos="2" side="sl" part="asp"/></tag>
+              <tag><clip pos="2" side="tl" part="tns"/></tag>
               <tag><clip pos="1" side="tl" part="prs"/></tag>
-              <tag><clip pos="2" side="tl" part="gen"/></tag>
+              <tag><clip pos="2" side="sl" part="gen"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_vrb"/>
-              <clip pos="2" side="tl" part="asp" link-to="2"/>
               <clip pos="2" side="tl" part="tns" link-to="3"/>
               <clip pos="1" side="tl" part="prs" link-to="4"/>
-              <clip pos="2" side="tl" part="gen" link-to="5"/>
               <clip pos="1" side="tl" part="nbr" link-to="6"/>
             </lu>
           </chunk>
