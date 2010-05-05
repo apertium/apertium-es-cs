@@ -5,6 +5,7 @@
      <sdef n="n"        c="Noun"/>
      <sdef n="pr"       c="Preposition"/>
      <sdef n="np"       c="Proper noun"/>
+     <sdef n="adj"      c=""/>
 
      <sdef n="vblex"    c="Verb"/>
      <sdef n="vaux"     c="Auxiliary verb"/>
@@ -26,6 +27,9 @@
      <sdef n="ND"       c=""/>
      <sdef n="mf"       c=""/>
      <sdef n="ij"       c=""/>
+
+     <sdef n="sent"     c=""/>
+     <sdef n="cm"       c=""/>
   </sdefs>
   <pardefs>
     <pardef n="paraguas_deštník__n">
@@ -91,6 +95,8 @@
     <e><p><l>casa<s n="n"/><s n="f"/></l><r>dům<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>mujer<s n="n"/><s n="f"/></l><r>žena<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hombre<s n="n"/><s n="m"/></l><r>muž<s n="n"/><s n="ma"/></r></p></e>
+
+    <e><p><l>financiero<s n="adj"/></l><r>finanční<s n="adj"/></r></p></e>
 
     <e r="LR"><p><l>niño<s n="n"/><s n="m"/></l><r>dítě<s n="n"/><s n="nt"/></r></p></e>
     <e r="LR"><p><l>niño<s n="n"/><s n="f"/></l><r>dítě<s n="n"/><s n="nt"/></r></p></e>
@@ -433,5 +439,10 @@
 
     <e><p><l>haber<b/>que<s n="vbmod"/></l><r>třeba<s n="vaux"/></r></p></e>
 
+  </section>
+  <section id="punct" type="standard">
+    <e><i>.<s n="sent"/></i></e>
+    <e><i>:<s n="sent"/></i></e>
+    <e><i>,<s n="cm"/></i></e>
   </section>
 </dictionary>
