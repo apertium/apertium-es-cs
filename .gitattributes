@@ -25,5 +25,4 @@
 /configure.ac -text
 /cs-es.prob -text
 /es-cs.prob -text svneol=unset#unset
-/marker_words.cs -text
 /modes.xml -text
