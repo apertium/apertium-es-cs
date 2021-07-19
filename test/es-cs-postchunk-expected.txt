@@ -1,0 +1,18 @@
+[0tqIcTiMLAx6#0] ^@4€<num><mon>$
+[/0tqIcTiMLAx6]
+[8IgPMH5TzP3i#0] ^@¡<lquest>$
+[/8IgPMH5TzP3i]
+[9lkMXfWOZ8Gc#0] ^@99m€<num><mon>$
+[/9lkMXfWOZ8Gc]
+[NCFBkOjA1GBZ#0] ^@¿<lquest>$
+[/NCFBkOjA1GBZ]
+[hEvBcvAyvdLQ#0] ^*ua$
+[/hEvBcvAyvdLQ]
+[hWg9rSMr7w7j#0] ^@2.1€<num><mon>$
+[/hWg9rSMr7w7j]
+[io3oI9XtPhJ0#0] ^@?<sent>$
+[/io3oI9XtPhJ0]
+[rBJwxQWK9lAl#0] ^@495<num>$
+[/rBJwxQWK9lAl]
+[ul7FHQekrA6V#0] ^@)<rpar>$
+[/ul7FHQekrA6V]

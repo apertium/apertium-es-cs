@@ -1,0 +1,24 @@
+[5cqAXu-u1Z-9#0] ^Velká Británie/Velká Británie<np><top><f><sg><voc>/Velká Británie<np><top><f><sg><nom>$
+[/5cqAXu-u1Z-9]
+[6x4z6KgbaXt1#0] ^31/31<num><qnt>$
+[/6x4z6KgbaXt1]
+[BjLJ7plVT56i#0] ^Velké Británii/Velká Británie<np><top><f><sg><loc>/Velká Británie<np><top><f><sg><dat>$
+[/BjLJ7plVT56i]
+[Bp85rrQb-8Y7#0] ^ř/*ř$
+[/Bp85rrQb-8Y7]
+[JcY7RgB2uXxj#0] ^svatého Jiřího/svatý Jiří<np><ant><ma><sg><acc>/svatý Jiří<np><ant><ma><sg><gen>$
+[/JcY7RgB2uXxj]
+[YsXrYxAz-1Vj#0] ^xenšaooo/*xenšaooo$
+[/YsXrYxAz-1Vj]
+[Zs4UTD50AfM2#0] ^svatého Mikuláše/svatý Mikuláš<np><ant><ma><sg><acc>/svatý Mikuláš<np><ant><ma><sg><gen>$
+[/Zs4UTD50AfM2]
+[a4ayc_80_OGd#0] ^1/1<num><sg>$
+[/a4ayc_80_OGd]
+[rZzb77cNphCw#0] ^kc/*kc$
+[/rZzb77cNphCw]
+[u3IIvJtdfATx#0] ^!/!<sent>$
+[/u3IIvJtdfATx]
+[x2kxp-NTCpNb#0] ^svatým Jiřím/svatý Jiří<np><ant><ma><sg><loc>/svatý Jiří<np><ant><ma><sg><ins>$
+[/x2kxp-NTCpNb]
+[zbTuKuppzGqD#0] ^./.<sent>$
+[/zbTuKuppzGqD]

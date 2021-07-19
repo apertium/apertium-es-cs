@@ -1,0 +1,24 @@
+[5cqAXu-u1Z-9#0] ^Nom<SN><f><sg><voc>{^@Velká Británie<np><top><2><3>$}$
+[/5cqAXu-u1Z-9]
+[6x4z6KgbaXt1#0] ^default<default>{^@31<num><qnt>$}$
+[/6x4z6KgbaXt1]
+[BjLJ7plVT56i#0] ^Nom<SN><f><sg><loc>{^@Velká Británie<np><top><2><3>$}$
+[/BjLJ7plVT56i]
+[Bp85rrQb-8Y7#0] ^unknown<unknown>{^*ř$}$
+[/Bp85rrQb-8Y7]
+[JcY7RgB2uXxj#0] ^Nom<SN><ma><sg><acc>{^@svatý Jiří<np><ant><2><3>$}$
+[/JcY7RgB2uXxj]
+[YsXrYxAz-1Vj#0] ^unknown<unknown>{^*xenšaooo$}$
+[/YsXrYxAz-1Vj]
+[Zs4UTD50AfM2#0] ^Nom<SN><ma><sg><acc>{^@svatý Mikuláš<np><ant><2><3>$}$
+[/Zs4UTD50AfM2]
+[a4ayc_80_OGd#0] ^default<default>{^@1<num><sg>$}$
+[/a4ayc_80_OGd]
+[rZzb77cNphCw#0] ^unknown<unknown>{^*kc$}$
+[/rZzb77cNphCw]
+[u3IIvJtdfATx#0] ^punt<sent>{^@!<sent>$}$
+[/u3IIvJtdfATx]
+[x2kxp-NTCpNb#0] ^Nom<SN><ma><sg><loc>{^@svatý Jiří<np><ant><2><3>$}$
+[/x2kxp-NTCpNb]
+[zbTuKuppzGqD#0] ^punt<sent>{^.<sent>$}$
+[/zbTuKuppzGqD]

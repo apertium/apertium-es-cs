@@ -1,0 +1,24 @@
+[5cqAXu-u1Z-9#0] ^Velká Británie<np><top><f><sg><voc>$
+[/5cqAXu-u1Z-9]
+[6x4z6KgbaXt1#0] ^31<num><qnt>$
+[/6x4z6KgbaXt1]
+[BjLJ7plVT56i#0] ^Velká Británie<np><top><f><sg><loc>$
+[/BjLJ7plVT56i]
+[Bp85rrQb-8Y7#0] ^*ř$
+[/Bp85rrQb-8Y7]
+[JcY7RgB2uXxj#0] ^svatý Jiří<np><ant><ma><sg><acc>$
+[/JcY7RgB2uXxj]
+[YsXrYxAz-1Vj#0] ^*xenšaooo$
+[/YsXrYxAz-1Vj]
+[Zs4UTD50AfM2#0] ^svatý Mikuláš<np><ant><ma><sg><acc>$
+[/Zs4UTD50AfM2]
+[a4ayc_80_OGd#0] ^1<num><sg>$
+[/a4ayc_80_OGd]
+[rZzb77cNphCw#0] ^*kc$
+[/rZzb77cNphCw]
+[u3IIvJtdfATx#0] ^!<sent>$
+[/u3IIvJtdfATx]
+[x2kxp-NTCpNb#0] ^svatý Jiří<np><ant><ma><sg><loc>$
+[/x2kxp-NTCpNb]
+[zbTuKuppzGqD#0] ^.<sent>$
+[/zbTuKuppzGqD]
